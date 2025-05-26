@@ -170,7 +170,7 @@ export default function App() {
           Contact
         </a>
         <a href="#WhatsApp" style={styles.navLink}>
-          Contact
+          WhatsApp
         </a>
       </nav>
 
