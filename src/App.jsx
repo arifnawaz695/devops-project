@@ -169,6 +169,9 @@ export default function App() {
         <a href="#contact" style={styles.navLink}>
           Contact
         </a>
+        <a href="#WhatsApp" style={styles.navLink}>
+          Contact
+        </a>
       </nav>
 
       <section id="home" style={styles.section}>
