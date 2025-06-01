@@ -196,7 +196,7 @@ export default function App() {
       </section>
 
       <section id="about" style={{ ...styles.section, background: "#f3f4f6" }}>
-        <h1 style={styles.title}>About Us</h1>
+        <h1 style={styles.title}>About us</h1>
         <p
           style={{
             maxWidth: "600px",
